@@ -1,0 +1,30 @@
+{
+  "name": "team-summary-generator",
+  "version": "1.0.0",
+  "description": "Node.js command line application to take in team info and generate HTML to display",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssharp0/team-summary-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssharp0/team-summary-generator/issues"
+  },
+  "homepage": "https://github.com/ssharp0/team-summary-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  },
+  "devDependencies": {
+    "jest": "^27.1.0"
+  }
+}
