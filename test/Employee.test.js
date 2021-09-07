@@ -8,7 +8,7 @@ test('Can instantiate Employee instance (test type for object)', () => {
   // create new Employee object
   const employee = new Employee();
   // expect the type of a new employee from class Employee to be an object
-  expect(typeof(employee)).toBe('object');
+  expect(typeof (employee)).toBe('object');
 });
 
 // test to determine if a name can be set using the Employee class constructor arguments (name, id, email)
