@@ -18,12 +18,12 @@ Object Oriented Programming and Test-Driven Development
 
 ## Table of Contents
 
-[Description](#description)
-[User Story](#user-story)
-[Usage](#usage)
-[Installation](#installation)
-[Testing](#testing)
-[Screenshots](#screenshots)
+-[Description](#description)
+-[User Story](#user-story)
+-[Usage](#usage)
+-[Installation](#installation)
+-[Testing](#testing)
+-[Screenshots](#screenshots)
 
 ## Description
 This is a node.js command line application that prompts a user for information about software engineering employees to build and generate a HTML webpage that displays summaries for each individual.
