@@ -1,0 +1,17 @@
+<!-- html division for employee card for intern -->
+<div class="card employee-card">
+    <div class="card-header header-intern text-center">
+        <!-- prompted response for name here -->
+        <h2 class="card-title">{{ name }}</h2>
+        <!-- prompted response for role here -->
+        <h3 class="card-title"><i class="fas fa-user-graduate mr-2"></i>{{ role }}</h3>
+    </div>
+    <div class="card-body">
+        <ul class="list-unstyled">
+            <!-- prompted response for ID, email, and school here -->
+            <li class="list-group-item"><strong>ID:</strong> {{ id }}</li>
+            <li class="list-group-item"><strong>Email:</strong> <a href="mailto:{{ email }}">{{ email }}</a></li>
+            <li class="list-group-item"><strong>School:</strong> {{ school }}</li>
+        </ul>
+    </div>
+</div>
