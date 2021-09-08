@@ -1,0 +1,59 @@
+/*  styling for body */
+
+body {
+ background-color: white;
+}
+
+/* styling for the jumbotron heading */
+
+.team-heading {
+ background-color: rgb(28, 28, 163);
+ opacity: 90%;
+}
+
+.team-header {
+ color: white;
+ font-size: 75px;
+}
+
+/*  styling for the employee cards */
+
+.employee-card {
+ margin: 1%;
+ height: 100%;
+ width: 100%;
+ background-color: lightgray;
+}
+
+/* styling for the manager card header  */
+
+.header-manager {
+ background-color: #49516F;
+ color: #E8F1F2;
+}
+
+/* styling for the engineer card header */
+
+.header-engineer {
+ background-color: #6279B8;
+ color: #E8F1F2;
+}
+
+/* styling for the intern card header */
+
+.header-intern {
+ background-color: #8EA4D2;
+ color: #E8F1F2;
+}
+
+/* styling for the icons (to add space) */
+
+i {
+ padding-right: 5%;
+}
+
+/* styling for the links (color links for email and github) */
+
+a {
+ color: rgb(170, 65, 65);
+}
